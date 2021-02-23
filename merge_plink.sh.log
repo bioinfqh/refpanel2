@@ -1,0 +1,14 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --23file /merge_plink.sh.txt
+  --out merge_plink.sh
+
+Hostname: quirin-0-1
+Working directory: /media/quirin/INTENSO/refpanel_calc
+Start time: Fri Dec 11 11:19:45 2020
+
+Random number seed: 1607681985
+7699 MB RAM detected; reserving 3849 MB for main workspace.
+Error: Failed to open /merge_plink.sh.txt.
+
+End time: Fri Dec 11 11:19:45 2020

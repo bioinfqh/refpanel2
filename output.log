@@ -1,0 +1,18 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-no-sex
+  --make-bed
+  --merge-list to_merge.txt
+  --out output
+
+Hostname: quirin-0-1
+Working directory: /media/quirin/INTENSO/refpanel_calc
+Start time: Sat Dec 12 11:49:19 2020
+
+Random number seed: 1607770159
+7699 MB RAM detected; reserving 3849 MB for main workspace.
+Performing single-pass merge (6 people, 445912 variants).
+
+Error: File read failure.
+
+End time: Sat Dec 12 11:49:21 2020
