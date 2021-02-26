@@ -12,7 +12,7 @@ task make_panel {
     File response = "panel.txt.gz"
   }
   runtime {
-   docker: "quay.io/testaccountq/test_1"
+   docker: "quay.io/testaccountq/test6"
   }
 }
 

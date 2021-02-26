@@ -1,6 +1,7 @@
 FROM ubuntu:18.04
 
 COPY make_panel.sh .
+COPY test.json .
 COPY plinkToRef.R .
 COPY multiply_files.py .
 COPY nationalities.txt .
